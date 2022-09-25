@@ -1,11 +1,11 @@
 {
   "communicationServicesConnectionString": "endpoint=your_endpoint;accesskey=secret",
-  "microsoftBookingsUrl": "https://microsoftbookings.azurewebsites.net/?organization=financialservices&UICulture=en-US&CallBackURL=https%3A%2F%2Fproducts.office.com/business/bookings",
-  "chatEnabled": true,
+  "microsoftBookingsUrl": "https://outlook.office365.com/owa/calendar/EventIT@maxerkensde.onmicrosoft.com/bookings/",
+  "chatEnabled": false,
   "screenShareEnabled": true,
-  "companyName": "Lamna Healthcare",
-  "colorPalette": "#0078d4",
-  "waitingTitle": "Thank you for choosing Lamna Healthcare",
-  "waitingSubtitle": "Your clinician is joining the meeting",
+  "companyName": "EventIT",
+  "colorPalette": "#000000",
+  "waitingTitle": "Thank you for choosing EventIT",
+  "waitingSubtitle": "Your expert is joining the meeting",
   "logoUrl": ""
 }
